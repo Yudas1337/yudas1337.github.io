@@ -1,7 +1,7 @@
 ### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 I'm Yudas Malabi . I'm From Indonesia . I'm a Fullstack Web & Mobile Developer. Thanks and enjoy for visiting my github 😄✌️
 
-- 📝[Visit My Resume](https://yudas1337.github.io/)
+- 📝[Visit My Resume](https://yudas-resume.vercel.app)
 
 ### Technologies :
 <ul>
