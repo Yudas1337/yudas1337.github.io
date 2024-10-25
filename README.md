@@ -5,17 +5,15 @@ I'm Yudas Malabi . I'm From Indonesia . I'm a Fullstack Web & Mobile Developer. 
 
 ### Technologies :
 <ul>
-<li>Backend  : Laravel 8</li>
-<li>Frontend : React JS</li>
+<li>Next JS 15</li>
 <li>Npm Packages:</li>
 <ul>
-<li>Isotope Layout</li>
-<li>React Tiny Slider</li>
-<li>React Animated Css</li>
-<li>React Loading Skeleton</li>
-<li>React Smooth Scroll</li>
+<li>Flowbite</li>
+<li>React TsParticles</li>
+<li>React Swr</li>
+<li>React Isotope Layout</li>
 <li>React Image Galery</li>
   
 </ul>
-<li>Database : Postgres</li>
+<li>Database : MongoDB</li>
 </ul>
